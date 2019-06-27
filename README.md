@@ -8,5 +8,6 @@ Welcome to a repository that contains functionality on converting wordified US p
 ### To run tests
 ```
 git clone https://github.com/letsago/Wordified-US-Phone-Numbers.git
+pip install pyenchant
 python main.py
 ```
